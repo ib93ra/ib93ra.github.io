@@ -10,6 +10,8 @@
 //* as before, paste your lnk below
 let URL = "https://teachablemachine.withgoogle.com/models/CMBhs4EAW/";
 
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Creepster&display=swap">
+
 
 
 
